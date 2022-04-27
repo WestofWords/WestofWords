@@ -5,7 +5,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,600;1,400&family=Raleway:ital,wght@0,400;0,600;1,400&family=Rubik:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="./styles.css">
+link rel="stylesheet" type="text/css" href="https://github.com/WestofWords/WestofWords/commit/6ce938b67296d847914ac75c1d6a24a4ad857d58">
     <body>
       <h1> My Website Style Guide</h1>
       <div class="container">
