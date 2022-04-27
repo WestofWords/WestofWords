@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;0,600;1,400&family=Raleway:ital,wght@0,400;0,600;1,400&family=Rubik:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css">
+    <body>
+      <h1> My Website Style Guide</h1>
+      <div class="container">
+        <h2>Colors</h2>
+        <div class="color-container">
+          <div class="color-panel indigo">
+            <p class="color-label" >Indigo</p>
+            <p class="color-hex">#4B0082</p>
+          </div>
+          <div class="color-panel vodka">
+            <p class="color-label" >Vodka</p>
+            <p class="color-hex">#BBBEFE</p>
+          </div>
+          <div class="color-panel lavenderrose">
+            <p class="color-label" >Lavender Rose</p>
+            <p class="color-hex">#F2A5E8</p>
+            </div>
+          <div class="color-panel brilliantlavender">
+            <p class="color-label" >Brilliant Lavender</p>
+            <p class="color-hex">#E8BFFB</p>
+            </div>
+          </div>
+        </div>
+        <div class="container">
+          <h2>Fonts</h2>
+          <div class="font-container">
+            <div class="font-panel">
+              <p class="font-label Raleway">Raleway</p>
+              <p class="regular Raleway">Now is the time for all good men to come to the aid of their country</p>
+              <p class="bold Raleway">Now is the time for all good men to come to the aid of their country</p>
+              <p class="italic Raleway">Now is the time for all good men to come to the aid of their country</p>
+            </div>
+            <div class="font-panel">
+              <p class="font-label Rubik">Rubik</p>
+              <p class="regular Rubik">Now is the time for all good men to come to the aid of their country.</p>
+              <p class="bold Rubik">Now is the time for all good men to come to the aid of their country</p>
+              <p class="italic Rubik">Now is the time for all good men to come to the aid of their country</p>
+            </div>
+            <div class="font-panel">
+              <p class="font-label Barlow">Barlow</p>
+              <p class="regular Barlow">Now is the time for all good men to come to the aid of their country</p>
+              <p class="bold Barlow">Now is the time for all good men to come to the aid of their country</p>
+              <p class="italic Barlow">Now is the time for all good men to come to the aid of their country</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="container">
+          <h2>Text Styles</h2>
+          <div class="text-container">
+            <div class="text-panel">
+              <h1>H1: Main page heading</h1>
+              <ul>
+                <li>Font-weight: 700 (bold)</li>
+                <li>Font-size: 18px</li>
+                <li>Font-family: Raleway</li>
+              </ul>
+            </div>
+            <div class="text-panel">
+              <h2>H2: Subheading</h2>
+              <ul>
+                <li>Font-weight: 500</li>
+                <li>Font-size: 18px</li>
+                <li>Font-family: Rubik</li>
+              </ul>
+            </div>
+            <div class="text-panel">
+              <p>P: Paragraph text</p>
+              <ul>
+                <li>Font-weight: 400 (regular)</li>
+                <li>Font-size: 16px</li>
+                <li>Font-family: Barlow</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        </body>
+      </head>
+     </html>
