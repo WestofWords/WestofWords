@@ -1,0 +1,102 @@
+body {
+  font-family: 'Barlow', sans-serif;
+  margin: 0 10%;
+}
+
+.container {
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.color-container {
+  width: 100%;
+}
+
+.color-panel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.indigo {
+  background-color: indigo; 
+  color: #FFFFFF
+  padding: 20px;
+  border: 1px solid indigo;
+  
+}
+
+.vodka {
+  background-color: #BBBEFE; !important
+  color: #FFFFFF
+  padding: 20px;
+  border: 1px solid #BBBEFE;
+  
+}
+
+.lavenderrose {
+  background-color: #F2A5E8;
+  padding: 10px;
+  border: 1px solid #ffffff;
+}
+
+.brilliantlavender {
+  background-color: #E8BFFB;
+  padding: 10px;
+  border: 1px solid #E8BFFB;
+}
+
+.font-panel {
+  width: 45%;
+  display: inline-block;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.Rubik {
+  font-family: 'Rubik', sans-serif;
+}
+
+.Raleway {
+  font-family: 'Raleway', monospace;
+}
+
+.Barlow {
+  font-family: 'Barlow', sans-serif;
+}
+
+.text-panel h1 {
+  font-weight: 700;
+  font-size: 32px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.text-panel h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Rubik', sans-serif;
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Barlow', sans-serif;
+}
